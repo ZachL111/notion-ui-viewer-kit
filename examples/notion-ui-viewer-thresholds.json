@@ -1,0 +1,17 @@
+{
+  "repo": "notion-ui-viewer-kit",
+  "thresholds": {
+    "signal": 3,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 5,
+    "ship": 208,
+    "watch": 102
+  },
+  "terms": [
+    "view drift",
+    "state pressure",
+    "layout risk",
+    "interaction cost"
+  ]
+}
